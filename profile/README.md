@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![](./logo-cesar.png)
+
 <!--
 
 **Here are some ideas to get you started:**
