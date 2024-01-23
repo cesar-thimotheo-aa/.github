@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![](./logo-cesar.png)
+![](../logo-cesar.png)
 
 <!--
 
