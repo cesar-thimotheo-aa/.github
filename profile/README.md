@@ -1,8 +1,6 @@
 ## Olá marocas 👋
 
-🙋‍♀️ Esta organização foi criada para manter os projetos de programção do CTAA.
-
-![](./logo-cesar.png)
+🙋‍♀️ Esta organização foi criada para manter os projetos de programação do CTAA.
 
 ## Arquitetura
 ![](./ctaa-arquitetura.drawio.svg)
